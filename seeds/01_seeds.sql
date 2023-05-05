@@ -16,6 +16,6 @@ VALUES (2, 2023-03-20, 2023-03-30, 2, 2),
 VALUES (3, 2023-03-20, 2023-03-30, 3, 3);
 
 INSERT INTO property_reviews (id, guest_id, property_id, reservation_id, rating, message)
-VALUES (1, 1, 1, 1, 80, "REVIEW1"),
-VALUES (2, 2, 2, 2, 50, "REVIEW2"),
-VALUES (3, 3, 3, 3, 25, "REVIEW3");
+VALUES (1, 1, 1, 1, 80, 'REVIEW1'),
+VALUES (2, 2, 2, 2, 50, 'REVIEW2'),
+VALUES (3, 3, 3, 3, 25, 'REVIEW3');
